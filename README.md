@@ -1,2 +1,2 @@
-# learningJavaScript
-Learning JavaScript Examples and Notes
+# JavaScript
+JavaScript Examples and Notes
